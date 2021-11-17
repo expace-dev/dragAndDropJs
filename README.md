@@ -1,2 +1,2 @@
 # dragAndDropJs
-modèle de drag and droj en js
+modèle de drag and drop en js
